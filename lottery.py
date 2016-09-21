@@ -1,4 +1,5 @@
 #run in python 3
+#begin building as large a database as you need
 import random as r
 import pickle
 import os
